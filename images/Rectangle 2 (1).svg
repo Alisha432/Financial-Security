@@ -1,0 +1,27 @@
+<svg width="547" height="402" viewBox="0 0 547 402" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-42" y="-42" width="630.224" height="485.71"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(21px);clip-path:url(#bgblur_0_9839_193_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="42">
+<rect x="486.367" y="-6.0374" width="315.621" height="503.5" rx="41.75" transform="rotate(77.9494 486.367 -6.0374)" fill="url(#paint0_radial_9839_193)"/>
+<rect x="486.367" y="-6.0374" width="315.621" height="503.5" rx="41.75" transform="rotate(77.9494 486.367 -6.0374)" stroke="url(#paint1_radial_9839_193)" stroke-width="3.5"/>
+<rect x="486.367" y="-6.0374" width="315.621" height="503.5" rx="41.75" transform="rotate(77.9494 486.367 -6.0374)" stroke="url(#paint2_radial_9839_193)" stroke-width="3.5"/>
+<rect x="486.367" y="-6.0374" width="315.621" height="503.5" rx="41.75" transform="rotate(77.9494 486.367 -6.0374)" stroke="url(#paint3_linear_9839_193)" stroke-width="3.5"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_9839_193_clip_path" transform="translate(42 42)"><rect x="486.367" y="-6.0374" width="315.621" height="503.5" rx="41.75" transform="rotate(77.9494 486.367 -6.0374)"/>
+</clipPath><radialGradient id="paint0_radial_9839_193" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(485.021 -3.9606) rotate(58.0258) scale(589.423 367.943)">
+<stop stop-color="white" stop-opacity="0.4"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_9839_193" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(641.082 246.039) rotate(90) scale(250 252.172)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_9839_193" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(641.082 246.039) rotate(90) scale(250 6.32433)">
+<stop/>
+<stop offset="1" stop-opacity="0.58"/>
+</radialGradient>
+<linearGradient id="paint3_linear_9839_193" x1="641.082" y1="-3.9606" x2="641.082" y2="496.039" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
